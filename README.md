@@ -1,6 +1,6 @@
 # WebApp-Using-Kubernetes
 # A simple NodeJS application using Kubernetes.
-* This process is seggregated into four parts for precise understanding :
+* This process is seggregated into four manifests files for precise understanding :
    * Configuring Webapp using .yaml file
    * Configuring ConfigMap using .yaml file
    * Configuring database (in this case MongoDB) using .yaml file
